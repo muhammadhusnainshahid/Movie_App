@@ -9,7 +9,7 @@ A sleek Flutter application to explore and discover movies with smooth navigatio
 
 ## 🔗 Live Demo
 
-👉 [Try the App Here](https://movie-app-demo.web.app/)
+👉 [Try the App Here]((https://movieapp-890d1.web.app))
 
 <p align="left">
   <a href="https://movie-app-demo.web.app/" target="_blank">
@@ -33,11 +33,11 @@ A sleek Flutter application to explore and discover movies with smooth navigatio
 
 ## 📸 Screenshots
 
-| Home Screen                                                                              | Movie Details                                                                               | Search                                                                                     | Favorites                                                                                     |
+| Home Screen                                                                              | Movie Details                                                                               | Search                                                                                     | Profile                                                                                     |
 | ---------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------- |
 | ![Home](https://github.com/user-attachments/assets/3c50b5ac-1df6-4440-8c09-ee7378b2ea6c) | ![Details](https://github.com/user-attachments/assets/86ae58b9-bc91-4231-987f-af31af224798) | ![Search](https://github.com/user-attachments/assets/20e8fefe-f48d-4566-9c8f-0337461c190c) | ![Favorites](https://github.com/user-attachments/assets/6dee0c90-da2d-47e6-9413-3c00630d22ac) |
 
-| Category View                                                                                | Profile                                                                                     |
+| Category View                                                                                | Favorites                                                                                     |
 | -------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------- |
 | ![Category](https://github.com/user-attachments/assets/972dca98-3a40-4333-86fe-eb6bf87ec8ee) | ![Profile](https://github.com/user-attachments/assets/972dca98-3a40-4333-86fe-eb6bf87ec8ee) |
 
