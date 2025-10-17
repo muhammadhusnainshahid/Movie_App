@@ -37,9 +37,7 @@ A sleek Flutter application to explore and discover movies with smooth navigatio
 | ---------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------- |
 | ![Home](https://github.com/user-attachments/assets/3c50b5ac-1df6-4440-8c09-ee7378b2ea6c) | ![Details](https://github.com/user-attachments/assets/86ae58b9-bc91-4231-987f-af31af224798) | ![Search](https://github.com/user-attachments/assets/20e8fefe-f48d-4566-9c8f-0337461c190c) | ![Favorites](https://github.com/user-attachments/assets/6dee0c90-da2d-47e6-9413-3c00630d22ac) |
 
-| Category View                                                                                |
-| -------------------------------------------------------------------------------------------- |
-| ![Category](https://github.com/user-attachments/assets/972dca98-3a40-4333-86fe-eb6bf87ec8ee) |
+
 
 ---
 
